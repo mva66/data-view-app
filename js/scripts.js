@@ -1,3 +1,3 @@
-alert('Hello World');
-var favoritefood='PASTA';
-document.write(favoritefood);
+var repository = [
+  { name: "Ivysaur", height: 1, weight: 13, type: ["Grass", "Poison"] }
+];
